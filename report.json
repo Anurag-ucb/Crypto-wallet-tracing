@@ -1,0 +1,33 @@
+{
+  "origin": {
+    "tx_hash": "0xabc",
+    "from_address": "0x1111111111111111111111111111111111111111",
+    "to_address": "0x0941dfaa0db804f37df1273e04cf10d55e6ffebffb80",
+    "value_wei": 10000000000000000000,
+    "value_eth": 10.0,
+    "gas_price_wei": 20000000000,
+    "gas_used": 21000,
+    "gas_fee_eth": 0.00042,
+    "block_number": 18000000
+  },
+  "endpoints": [
+    {
+      "address": "0x70e24f392c54e428e6170ba9c4320ed643a6d909",
+      "stolen_flow_eth": 6.004661501501501,
+      "entity": "Kraken Hot Wallet",
+      "category": "Centralized Exchange",
+      "confidence": "High",
+      "source": "Public attribution dataset",
+      "last_verified": "2026-09-01"
+    }
+  ],
+  "reconciliation": {
+    "initial_stolen_amount": 10.0,
+    "tracked_stolen_flow": 6.004661501501501,
+    "total_gas_fees_eth": 0.00084,
+    "unaccounted_amount": 3.9944984984984986,
+    "is_fully_accounted": false,
+    "total_endpoints": 1,
+    "total_nodes_analyzed": 3
+  }
+}

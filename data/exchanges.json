@@ -1,0 +1,170 @@
+{
+  "0x28c6c06298d514db089934071355e5743bf21d60": {
+    "entity": "Binance Hot Wallet 14",
+    "category": "Centralized Exchange",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0x21a31ee1afc51d94c2efccaa36082107285746c6": {
+    "entity": "Binance 15",
+    "category": "Centralized Exchange",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0x47ac0fb4f2d84898e4d9e7b4dab3c24507a6d503": {
+    "entity": "Binance Deposit Wallet",
+    "category": "Centralized Exchange",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0x8894e0a0c962cb723c1976a4421c95949be2d4e3": {
+    "entity": "Binance Hot Wallet 6",
+    "category": "Centralized Exchange",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0x71c7656ec7ab88b098defb751b7401b5f6d8976f": {
+    "entity": "Coinbase 1",
+    "category": "Centralized Exchange",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0xa9d1e08c7793af67e9d92fe308d5697fb81d3e43": {
+    "entity": "Coinbase 10",
+    "category": "Centralized Exchange",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0x70e24f392c54e428e6170ba9c4320ed643a6d909": {
+    "entity": "Kraken Hot Wallet",
+    "category": "Centralized Exchange",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0x267be1c1d684f78cb4f6a176c4911b741e4ffdc0": {
+    "entity": "Kraken 4",
+    "category": "Centralized Exchange",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0x4b4e14a3773ee558b6597070797fd51eb48606e5": {
+    "entity": "OKX Hot Wallet",
+    "category": "Centralized Exchange",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0x559432e18b281731c054cd703d4b49872be4ed53": {
+    "entity": "OKX Hot Wallet 5",
+    "category": "Centralized Exchange",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0xa7a93fd0a276fc1c0197a5b5623ed117786eed06": {
+    "entity": "Bybit Hot Wallet",
+    "category": "Centralized Exchange",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0x163b21650b86b45f5a899cf4b1f83c1ce7747e76": {
+    "entity": "KuCoin Hot Wallet",
+    "category": "Centralized Exchange",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0x0d0707963952f2a77299388147d3aa666ef1ff15": {
+    "entity": "Gate.io Hot Wallet",
+    "category": "Centralized Exchange",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0x7a250d5630b4cf539739df2c5dacb4c659f2488d": {
+    "entity": "Uniswap V2 Router 02",
+    "category": "Decentralized Exchange Router",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45": {
+    "entity": "Uniswap V3 SwapRouter02",
+    "category": "Decentralized Exchange Router",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0xd9e1ce17f2641f24ae83637ab66a2cca9c378804": {
+    "entity": "SushiSwap Router",
+    "category": "Decentralized Exchange Router",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0x1111111254fb6c44bac0bed2854e76f90643097d": {
+    "entity": "1inch V5 Aggregator Router",
+    "category": "DEX Aggregator",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0xd90e2f925da726b50c4ed8d0fb90ad053324f31b": {
+    "entity": "Tornado.Cash 0.1 ETH Router",
+    "category": "Privacy Mixer",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0x47ce0c6ed5b0ce3d3a51fdb1c52dc66a7c3c2936": {
+    "entity": "Tornado.Cash 1 ETH Instance",
+    "category": "Privacy Mixer",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0x910cbd523d972eb0a6f4cae4618ad62622b39dbf": {
+    "entity": "Tornado.Cash 10 ETH Instance",
+    "category": "Privacy Mixer",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0x8315177ab297ba92a06054ce80a67ed4dbd7ed3a": {
+    "entity": "Arbitrum One Bridge Router",
+    "category": "Cross-Chain Bridge",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0x99c9fc46f92e8a1c0dec1b1747d010903e884be1": {
+    "entity": "Optimism L1 Standard Bridge",
+    "category": "Cross-Chain Bridge",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0xdac17f958d2ee523a2206206994597c13d831ec7": {
+    "entity": "Tether USD (USDT) Contract",
+    "category": "ERC-20 Smart Contract",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  },
+  "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+    "entity": "USD Coin (USDC) Contract",
+    "category": "ERC-20 Smart Contract",
+    "confidence": "High",
+    "source": "Public attribution dataset",
+    "last_verified": "2026-09-01"
+  }
+}
