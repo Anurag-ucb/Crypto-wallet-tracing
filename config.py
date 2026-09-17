@@ -10,7 +10,7 @@ BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 
 # API & Provider Configuration
-ETHERSCAN_API_KEY = os.getenv("ETHERSCAN_API_KEY", "7VDZUV1M6TRUJJPEQWWFG5TEJHIT4S5AXZ")
+ETHERSCAN_API_KEY = os.getenv("ETHERSCAN_API_KEY", "Your-api-key")
 # Updated to Etherscan API V2 unified endpoint
 ETHERSCAN_API_URL = os.getenv(
     "ETHERSCAN_API_URL", "https://api.etherscan.io/v2/api"
